@@ -40,3 +40,10 @@ Download the `requirements.txt` file (attached separately) and install the requi
 
 6. **Run the tests:**
 `python3 src/tests/test_scraper.py`
+
+7. If running the tests more than once, please clear the following:
+
+* `__pycache__` directories 
+* The `downloads` folder 
+* The `extracted_json` file 
+
